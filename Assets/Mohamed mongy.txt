@@ -1,0 +1,9 @@
+Very basic third person game
+every line of code is written by mohamed mongy for Orial game studio
+Controls:-
+WASD for movment
+L-Mouse for shooting
+Space for jumping
+
+you will not die
+Enjoy! ^_^
